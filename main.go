@@ -1,14 +1,14 @@
 package main
 
 import (
-	solution "adventofcode/day03p2"
+	solution "adventofcode/day04p2"
 	"bufio"
 	"log"
 	"os"
 )
 
 func main() {
-	f, err := os.Open("data/day_03_input.txt")
+	f, err := os.Open("data/day_04_input.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
