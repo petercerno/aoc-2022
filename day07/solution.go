@@ -1,4 +1,4 @@
-package day07p1
+package day07
 
 import (
 	"bufio"
